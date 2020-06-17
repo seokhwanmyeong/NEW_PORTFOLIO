@@ -35,8 +35,8 @@
 
 
 
-#  [printbakery](https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html)
-`<link>` : <https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html>
+#  [printbakery](https://github.com/seokhwanmyeong/printbakery)
+`<link>` : <https://seokhwanmyeong.github.io/printbakery/index.html>
 
 학원을 다니고 처음만든 사이트로 기존의 printbakery를 리모델링한 사이트입니다.
 
