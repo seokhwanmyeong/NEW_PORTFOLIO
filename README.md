@@ -3,7 +3,7 @@
  이 페이지는 명석환의 포트폴리오를 담은 페이지 입니다.
  
 
-### LuckShop
+### LuckShop _https://github.com/seokhwanmyeong/LuckShop.git
 
 처음으로 만든 외국사이트 리뉴얼한 사이트입니다.
 
