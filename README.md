@@ -6,6 +6,8 @@
 # [LuckShop](https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html)
 `<link>` : <https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html>
 
+![](https://github.com/seokhwanmyeong/LuckShop/blob/master/luckshop/luckshop.PNG)
+
 외국쇼핑관련 홈페이지를 벤치마킹하여 제작한 첫번째 홈페이지 입니다.
 
 디자인컨셉: 심플한 가정제품 판매 쇼핑몰
