@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## 명석환의 PORTFOLIO에 오신 것을 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/seokhwanmyeong/TEST/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ 이 페이지는 명석환의 포트폴리오를 담은 페이지 입니다.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### LuckShop
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
