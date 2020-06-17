@@ -4,10 +4,12 @@
  
 
 # [LuckShop](https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html)
+`<link>` : <https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html>
 
-처음으로 만든 외국사이트 리뉴얼한 사이트입니다.
+외국쇼핑관련 홈페이지를 벤치마킹하여 제작한 첫번째 홈페이지 입니다.
 
 디자인컨셉: 심플한 가정제품 판매 쇼핑몰
+
 
 -개발과정-
 레이아웃 : 거의 모든 레이아웃을 float를 사용해 제작하였습니다. (float해제는 clearfix class사용)
@@ -25,25 +27,27 @@ float해제방법으로는 5가지정도가 있지만 가장 보편적으로 사
 
 
 
-###  printbakery
+#  [printbakery](https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html)
+`<link>` : <https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html>
 
 학원을 다니고 처음만든 사이트로 기존의 printbakery를 리모델링한 사이트입니다.
 
 디자인컨셉: 미술용품 판매 사이트
 
+
 -개발과정 -
----
+
 레이아웃 : showBox와 마찬가지로 모든 레이아웃을 position으로 구분 지어 제작하였습니다.
----
 모션 : css3의 rotate를 이용하여 반응형으로 되었을때 180도나 360도로 회전하는등 여러가지 모션을 걸어보았습니다.
----
 반응형: pc버전 , 태블릿버전, moblie 버전 3가지로 미디어쿼리를 사용해 제작 하였습니다.
 
 
 
 #  [WALKERHILL](https://github.com/seokhwanmyeong/WALKERHILL)
+`<link>` : <https://github.com/seokhwanmyeong/WALKERHILL>
 
-기존의 WALKERHILL를 리모델링한 사이트입니다.
+기존의 WALKERHILL를 벤치마킹하여 만든 사이트입니다.
+현재 github 페이지 호스팅부분에서 php연동이 되지않아 작업한 폴더를 올려놓았습니다.
 
 디자인컨셉: 호텔 예약 사이트
 
@@ -55,7 +59,8 @@ float해제방법으로는 5가지정도가 있지만 가장 보편적으로 사
 
 
 
-###  Ajax
+#  [Ajax](https://github.com/seokhwanmyeong/WALKERHILL)
+`<link>` : <https://github.com/seokhwanmyeong/WALKERHILL>
 
 -Ajax 연동-
 url : target, beforeSend : function(){ console.log("데이터 불러오기전까지 이구문이 실행") },
@@ -66,7 +71,8 @@ error : function(){ }
 
 
 
-### showbox
+# [showbox](https://github.com/seokhwanmyeong/WALKERHILL)
+`<link>` : <https://github.com/seokhwanmyeong/WALKERHILL>
 
 -레이아웃-
 웹접근성 요소에서 시각장애인들은 태그를 위에서부터 차례대로 읽어야하는데 float으로 제작할시 gnb같은 우선순위가 높은 태그들을 위에 쓸수 
