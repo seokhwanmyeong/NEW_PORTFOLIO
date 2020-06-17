@@ -1,6 +1,6 @@
 ## 명석환의 PORTFOLIO에 오신 것을 환영합니다.
 
- 이 페이지는 명석환의 포트폴리오를 담은 페이지 입니다.
+ 
  
 
 # [LuckShop](https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html)
@@ -13,10 +13,15 @@
 디자인컨셉: 심플한 가정제품 판매 쇼핑몰
 
 -개발과정-
-레이아웃 : 거의 모든 레이아웃을 float기법을 사용하여 제작하였습니다. (float해제는 clearfix class사용)
-모션 : css3의 가장 핵심적인 기술인 transition, transform, box-shadow 등을 자주 사용하여 만들었으며
-      특히 gnb부분은 자주 사용되는 jquery sliderToggle를 사용하지 않고 오로지 css3기능만으로 제작하였습니다.
-반응형 : PC버전, 태블릿버전, MOBILE 버전 3가지로 미디어쿼리를 사용하여 제작하였습니다.
+레이아웃 :
+>거의 모든 레이아웃을 float기법을 사용하여 제작하였습니다. (float해제는 clearfix class사용)
+
+모션 :
+>css3의 가장 핵심적인 기술인 transition, transform, box-shadow 등을 자주 사용하여 만들었으며
+>특히 gnb부분은 자주 사용되는 jquery sliderToggle를 사용하지 않고 오로지 css3기능만으로 제작하였습니다.
+
+반응형 : 
+>PC버전, 태블릿버전, MOBILE 버전 3가지로 미디어쿼리를 사용하여 제작하였습니다.
 
 
 -느낀점-
