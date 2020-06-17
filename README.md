@@ -76,8 +76,8 @@
  
  
 
-#  [Ajax](https://github.com/seokhwanmyeong/WALKERHILL)
-`<link>` : <https://github.com/seokhwanmyeong/WALKERHILL>
+#  [Ajax](https://github.com/seokhwanmyeong/ajax)
+`<link>` : <https://seokhwanmyeong.github.io/ajax/>
 
 -Ajax 연동-
  url : target, beforeSend : function(){ console.log("데이터 불러오기전까지 이구문이 실행") },
