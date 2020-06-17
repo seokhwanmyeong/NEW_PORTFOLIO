@@ -12,13 +12,11 @@
 
 디자인컨셉: 심플한 가정제품 판매 쇼핑몰
 
-
 -개발과정-
-레이아웃 : 거의 모든 레이아웃을 float를 사용해 제작하였습니다. (float해제는 clearfix class사용)
-모션 : css3의 가장 핵심적인 기술인 transition,transform,box-showdow 등을 자주 사용하여 만들었고 특히 gnb부분은
-자주 쓰이는 jquery slideToggle을 사용하지 않고 오로지 css3기능으로만 제작하였습니다.
-슬라이더는 bxSlide 플로그인으로 사용해 만들었습니다.
-반응형 : pc버전 , 태블릿버전, moblie 버전 3가지로 미디어쿼리를 사용해 제작 하였습니다.
+레이아웃 : 거의 모든 레이아웃을 float기법을 사용하여 제작하였습니다. (float해제는 clearfix class사용)
+모션 : css3의 가장 핵심적인 기술인 transition, transform, box-shadow 등을 자주 사용하여 만들었으며
+      특히 gnb부분은 자주 사용되는 jquery sliderToggle를 사용하지 않고 오로지 css3기능만으로 제작하였습니다.
+반응형 : PC버전, 태블릿버전, MOBILE 버전 3가지로 미디어쿼리를 사용하여 제작하였습니다.
 
 
 -느낀점-
