@@ -3,7 +3,7 @@
  이 페이지는 명석환의 포트폴리오를 담은 페이지 입니다.
  
 
-##### LuckShop(https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html)
+##### [LuckShop](https://seokhwanmyeong.github.io/LuckShop/luckshop/index.html)
 
 처음으로 만든 외국사이트 리뉴얼한 사이트입니다.
 
@@ -38,7 +38,7 @@ float해제방법으로는 5가지정도가 있지만 가장 보편적으로 사
 
 
 
-#####  WALKERHILL(https://github.com/seokhwanmyeong/WALKERHILL)
+#####  [WALKERHILL](https://github.com/seokhwanmyeong/WALKERHILL)
 
 기존의 WALKERHILL를 리모델링한 사이트입니다.
 
