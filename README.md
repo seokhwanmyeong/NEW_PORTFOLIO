@@ -76,20 +76,9 @@
  
  
 
-#  [Ajax](https://github.com/seokhwanmyeong/ajax)
-`<link>` : <https://seokhwanmyeong.github.io/ajax/>
 
--Ajax 연동-
- url : target, beforeSend : function(){ console.log("데이터 불러오기전까지 이구문이 실행") },
- success : function(data){ console.log(data); $(".showBox").html(data); },
- error : function(){ }
->데이터를 불러오기 전까지 실행할 구문,데이터가 성공적으로 불러와지면 실행할 구문,데이터 불러오기 실패구문로 나뉘어
->한 index.html 안에 10개의 html페이지를 불러오기 하였습니다.
-
-
-
-# [showbox](https://github.com/seokhwanmyeong/WALKERHILL)
-`<link>` : <https://github.com/seokhwanmyeong/WALKERHILL>
+# [showbox](https://seokhwanmyeong.github.io/showbox/)
+`<link>` : <https://seokhwanmyeong.github.io/showbox/>
 
  레이아웃 :
 >웹접근성 요소에서 시각장애인들은 태그를 위에서부터 차례대로 읽어야하는데 float으로 제작할시 gnb같은 우선순위가 높은 태그들을 위에 쓸수 
